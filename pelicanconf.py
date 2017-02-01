@@ -20,13 +20,11 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = (('Pelican', 'http://getpelican.com/'),
-         ('Python.org', 'http://python.org/'),
-         ('Jinja2', 'http://jinja.pocoo.org/'),
-         ('You can modify those links in your config file', '#'),)
+LINKS = (('Flickr', 'https://www.flickr.com/photos/zegoggles/'),
+         ('GitHub', 'https://github.com/kevinofsydney/'))
 
 # Social widget
-SOCIAL = (('You can add links in your config file', '#'),
+SOCIAL = (('twitter', 'http://twitter.com/kevinofsydney'),
           ('Another social link', '#'),)
 
 DEFAULT_PAGINATION = 10
